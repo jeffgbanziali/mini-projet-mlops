@@ -49,8 +49,7 @@ L'application expose deux endpoints principaux sur `/predict` :
    - Reponse (JSON) :
      ```json
      {
-       "prediction": 308855.23,
-       "prediction_formatted": "308 855,23 €"
+       "prediction": 308 855,23,
      }
      ```
 
