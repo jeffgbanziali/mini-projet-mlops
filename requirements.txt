@@ -1,5 +1,7 @@
-streamlit
-joblib
+fastapi
+uvicorn
+pydantic
 scikit-learn
+joblib
 pandas
 numpy
